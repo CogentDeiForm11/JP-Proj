@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Gaffer Permit", "Gaffer Permit\Gaffer Permit.vbproj", "{A9D08EA2-D6A7-44E3-A6DC-B9D620022173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9D08EA2-D6A7-44E3-A6DC-B9D620022173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D08EA2-D6A7-44E3-A6DC-B9D620022173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D08EA2-D6A7-44E3-A6DC-B9D620022173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D08EA2-D6A7-44E3-A6DC-B9D620022173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
